@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "666afe5de722ed4f6711df72"
+  },
+  "nom": "RALAIVELONA VOLANIAINA Lucah",
+  "tel": "0345937516",
+  "mail": "lucahralaivelona@gmail.com",
+  "password": "$2a$10$vqYKRQ.anZY2phBSZFIzheDmC8VfQ03NHbyPCRCHIFUQ/txe1BeVe"
+},
+{
+  "_id": {
+    "$oid": "666b0150e722ed4f6711df75"
+  },
+  "nom": "RALISOA Onitiana ",
+  "tel": "0341145647",
+  "mail": "ralisoao@gmail.com",
+  "password": "$2a$10$nFzjvfg2NmARL26p77N5FuwTQr7B6ClhZMWXPmCtmp/5dQh7dBRPC"
+},
+{
+  "_id": {
+    "$oid": "666b0170e722ed4f6711df76"
+  },
+  "nom": "ANDRIANANDRASANA Sylvano",
+  "tel": "0345622388",
+  "mail": "sylvano@gmail.com",
+  "password": "$2a$10$MP18.q75eVR27Li0LNo.tOJjcoWny25gdiucr9JZWGLeh1J0uY60K"
+},
+{
+  "_id": {
+    "$oid": "66c359cb5367d87e33b96501"
+  },
+  "nom": "rakoto",
+  "tel": "0340809876",
+  "mail": "rakoto@gmail.com",
+  "password": "$2a$10$RBo4tOVL5.9wK7T65Z5FEO2hDcTS6X5LMCO.0URQdbsaGaORMGy/a"
+}]

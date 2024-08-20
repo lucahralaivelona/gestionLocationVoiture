@@ -1,0 +1,195 @@
+[{
+  "_id": {
+    "$oid": "666afe78e722ed4f6711df74"
+  },
+  "idCar": {
+    "$oid": "66589ca7b732d287c0e31fe6"
+  },
+  "nombreDeJour": "2",
+  "idUser": {
+    "$oid": "666afe5de722ed4f6711df72"
+  },
+  "jourDepart": "2024-06-19 00:00:00.000",
+  "jourArrive": "2024-06-21 00:00:00.000",
+  "prixTotal": "500"
+},
+{
+  "_id": {
+    "$oid": "666b018ae722ed4f6711df78"
+  },
+  "idCar": {
+    "$oid": "66589c3cb732d287c0e31fe5"
+  },
+  "nombreDeJour": "3",
+  "idUser": {
+    "$oid": "666b0150e722ed4f6711df75"
+  },
+  "jourDepart": "2024-06-27 00:00:00.000",
+  "jourArrive": "2024-06-30 00:00:00.000",
+  "prixTotal": "500"
+},
+{
+  "_id": {
+    "$oid": "666b0199e722ed4f6711df79"
+  },
+  "idCar": {
+    "$oid": "66589b05b732d287c0e31fe3"
+  },
+  "nombreDeJour": "3",
+  "idUser": {
+    "$oid": "666b0150e722ed4f6711df75"
+  },
+  "jourDepart": "2024-06-21 00:00:00.000",
+  "jourArrive": "2024-06-24 00:00:00.000",
+  "prixTotal": "500"
+},
+{
+  "_id": {
+    "$oid": "666b01a4e722ed4f6711df7a"
+  },
+  "idCar": {
+    "$oid": "66589ca7b732d287c0e31fe6"
+  },
+  "nombreDeJour": "4",
+  "idUser": {
+    "$oid": "666b0150e722ed4f6711df75"
+  },
+  "jourDepart": "2024-06-21 00:00:00.000",
+  "jourArrive": "2024-06-25 00:00:00.000",
+  "prixTotal": "500"
+},
+{
+  "_id": {
+    "$oid": "666b01bce722ed4f6711df7b"
+  },
+  "idCar": {
+    "$oid": "66589d2db732d287c0e31fe7"
+  },
+  "nombreDeJour": "3",
+  "idUser": {
+    "$oid": "666b0170e722ed4f6711df76"
+  },
+  "jourDepart": "2024-06-20 00:00:00.000",
+  "jourArrive": "2024-06-23 00:00:00.000",
+  "prixTotal": "500"
+},
+{
+  "_id": {
+    "$oid": "666b01c4e722ed4f6711df7c"
+  },
+  "idCar": {
+    "$oid": "66589ca7b732d287c0e31fe6"
+  },
+  "nombreDeJour": "3",
+  "idUser": {
+    "$oid": "666b0170e722ed4f6711df76"
+  },
+  "jourDepart": "2024-06-20 00:00:00.000",
+  "jourArrive": "2024-06-23 00:00:00.000",
+  "prixTotal": "500"
+},
+{
+  "_id": {
+    "$oid": "666b01cde722ed4f6711df7d"
+  },
+  "idCar": {
+    "$oid": "66589c3cb732d287c0e31fe5"
+  },
+  "nombreDeJour": "3",
+  "idUser": {
+    "$oid": "666b0170e722ed4f6711df76"
+  },
+  "jourDepart": "2024-06-14 00:00:00.000",
+  "jourArrive": "2024-06-17 00:00:00.000",
+  "prixTotal": "500"
+},
+{
+  "_id": {
+    "$oid": "666b01dbe722ed4f6711df7e"
+  },
+  "idCar": {
+    "$oid": "66589b05b732d287c0e31fe3"
+  },
+  "nombreDeJour": "3",
+  "idUser": {
+    "$oid": "666b0170e722ed4f6711df76"
+  },
+  "jourDepart": "2024-06-20 00:00:00.000",
+  "jourArrive": "2024-06-23 00:00:00.000",
+  "prixTotal": "500"
+},
+{
+  "_id": {
+    "$oid": "666b0225e722ed4f6711df7f"
+  },
+  "idCar": {
+    "$oid": "66589d2db732d287c0e31fe7"
+  },
+  "nombreDeJour": "2",
+  "idUser": {
+    "$oid": "666afe5de722ed4f6711df72"
+  },
+  "jourDepart": "2024-06-20 00:00:00.000",
+  "jourArrive": "2024-06-22 00:00:00.000",
+  "prixTotal": "500"
+},
+{
+  "_id": {
+    "$oid": "666b0230e722ed4f6711df80"
+  },
+  "idCar": {
+    "$oid": "66589ca7b732d287c0e31fe6"
+  },
+  "nombreDeJour": "3",
+  "idUser": {
+    "$oid": "666afe5de722ed4f6711df72"
+  },
+  "jourDepart": "2024-06-19 00:00:00.000",
+  "jourArrive": "2024-06-22 00:00:00.000",
+  "prixTotal": "500"
+},
+{
+  "_id": {
+    "$oid": "666b0fdee722ed4f6711df81"
+  },
+  "idCar": {
+    "$oid": "66589b05b732d287c0e31fe3"
+  },
+  "nombreDeJour": "4",
+  "idUser": {
+    "$oid": "666afe5de722ed4f6711df72"
+  },
+  "jourDepart": "2024-06-20 00:00:00.000",
+  "jourArrive": "2024-06-24 00:00:00.000",
+  "prixTotal": "500"
+},
+{
+  "_id": {
+    "$oid": "66c35a045367d87e33b96503"
+  },
+  "idCar": {
+    "$oid": "66589b05b732d287c0e31fe3"
+  },
+  "nombreDeJour": "3",
+  "idUser": {
+    "$oid": "66c359cb5367d87e33b96501"
+  },
+  "jourDepart": "2024-08-29 00:00:00.000",
+  "jourArrive": "2024-09-01 00:00:00.000",
+  "prixTotal": "500"
+},
+{
+  "_id": {
+    "$oid": "66c35b405367d87e33b96505"
+  },
+  "idCar": {
+    "$oid": "66589ca7b732d287c0e31fe6"
+  },
+  "nombreDeJour": "2",
+  "idUser": {
+    "$oid": "666afe5de722ed4f6711df72"
+  },
+  "jourDepart": "2024-08-28 00:00:00.000",
+  "jourArrive": "2024-08-30 00:00:00.000",
+  "prixTotal": "500"
+}]

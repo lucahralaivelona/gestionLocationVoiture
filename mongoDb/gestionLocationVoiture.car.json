@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "66589a26b732d287c0e31fe2"
+  },
+  "model": "106",
+  "marque": "Peugeot",
+  "type": "Plaisir",
+  "about": "La Peugeot 106 est une citadine emblématique qui a marqué les années 90. Conçue pour être économique et facile à conduire, elle offre une excellente maniabilité en milieu urbain. Son design compact et ses faibles coûts d'entretien en font une voiture idéale pour les jeunes conducteurs et ceux recherchant une solution de mobilité pratique et abordable.",
+  "prix": "80 000",
+  "nombreDePlace": "5",
+  "consommation": "5.5",
+  "couleur": "Jaune",
+  "boiteDeVitesse": "Manuelle",
+  "status": "Disponible",
+  "note": "4",
+  "img": "uploads\\1717082662053.jpeg",
+  "imgC": "uploads\\1717082662074.jpg",
+  "img1": "uploads\\1717082662076.jpeg",
+  "img2": "uploads\\1717082662093.jpg",
+  "img3": "uploads\\1717082662095.jpeg"
+},
+{
+  "_id": {
+    "$oid": "66589b05b732d287c0e31fe3"
+  },
+  "model": "Land Cruiser V8",
+  "marque": "Toyota",
+  "type": "4x4",
+  "about": "Le Toyota Land Cruiser V8 est un SUV de luxe conçu pour allier robustesse et confort. Doté d'un moteur V8 puissant, il est capable de surmonter les terrains les plus difficiles tout en offrant un intérieur raffiné et spacieux. Ses technologies avancées et ses fonctionnalités de sécurité en font un choix privilégié pour ceux qui cherchent à allier performance, élégance et fiabilité, que ce soit en ville ou hors des sentiers battus.",
+  "prix": "190 000",
+  "nombreDePlace": "7",
+  "consommation": "12",
+  "couleur": "Blanc",
+  "boiteDeVitesse": "Automatique",
+  "status": "Disponible",
+  "note": "5",
+  "img": "uploads\\1717082885467.jpg",
+  "imgC": "uploads\\1717082885471.png",
+  "img1": "uploads\\1717082885485.jpg",
+  "img2": "uploads\\1717082885491.jpg",
+  "img3": "uploads\\1717082885492.jpeg"
+},
+{
+  "_id": {
+    "$oid": "66589c3cb732d287c0e31fe5"
+  },
+  "model": "C3",
+  "marque": "Citroën",
+  "type": "Citadine",
+  "about": "Une citadine classe pour vos course ne ville",
+  "prix": "200 000",
+  "nombreDePlace": "5",
+  "consommation": "8",
+  "couleur": "Blanc",
+  "boiteDeVitesse": "Mannuelle",
+  "status": "Disponible",
+  "note": "4.5",
+  "img": "uploads\\1717083196056.jpg",
+  "imgC": "uploads\\1717083196057.jpg",
+  "img1": "uploads\\1717083196059.jpg",
+  "img2": "uploads\\1717083196061.png",
+  "img3": "uploads\\1717083196069.jpg"
+},
+{
+  "_id": {
+    "$oid": "66589ca7b732d287c0e31fe6"
+  },
+  "model": "i30",
+  "marque": "Hyundai",
+  "type": "Citadine",
+  "about": "La Hyundai i30 est une berline compacte élégante et pratique, parfaite pour les trajets quotidiens et les voyages de longue distance. Elle combine un design moderne avec une technologie de pointe, offrant une expérience de conduite agréable et sûre. L'intérieur est spacieux et bien équipé, avec des matériaux de haute qualité et une connectivité avancée, ce qui en fait un choix judicieux pour les familles et les jeunes professionnels.",
+  "prix": "200 000",
+  "nombreDePlace": "5",
+  "consommation": "5.8",
+  "couleur": "Rouge",
+  "boiteDeVitesse": "Mannuelle",
+  "status": "Disponible",
+  "note": "3",
+  "img": "uploads\\1717083303646.jpg",
+  "imgC": "uploads\\1717083303647.jpg",
+  "img1": "uploads\\1717083303650.jpg",
+  "img2": "uploads\\1717083303651.jpg",
+  "img3": "uploads\\1717083303655.jpg"
+},
+{
+  "_id": {
+    "$oid": "66589d2db732d287c0e31fe7"
+  },
+  "model": "Starex",
+  "marque": "Hyundai",
+  "type": "Familiale",
+  "about": "Le Hyundai Starex, également connu sous le nom de H-1 dans certains marchés, est un monospace spacieux et polyvalent, idéal pour les familles nombreuses ou les professionnels nécessitant un véhicule de transport de personnes. Son habitacle généreux peut accueillir confortablement jusqu'à neuf passagers, avec des sièges modulables pour maximiser l'espace de chargement. Doté d'un moteur diesel robuste et de technologies modernes, il offre un confort de conduite et une fiabilité exemplaires.",
+  "prix": "250 000",
+  "nombreDePlace": "9",
+  "consommation": "9",
+  "couleur": "Blanc",
+  "boiteDeVitesse": "Mannuelle",
+  "status": "Disponible",
+  "note": "4",
+  "img": "uploads\\1717083437173.jpg",
+  "imgC": "uploads\\1717083437177.jpg",
+  "img1": "uploads\\1717083437188.jpeg",
+  "img2": "uploads\\1717083437188.jpg",
+  "img3": "uploads\\1717083437189.jpg"
+}]
